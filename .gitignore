@@ -1,0 +1,10 @@
+_site/**
+*.ps1
+readme.txt
+.vscode/**
+
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+Gemfile.lock
