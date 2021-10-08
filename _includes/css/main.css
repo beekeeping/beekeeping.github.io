@@ -185,6 +185,13 @@ section.success {
   background: #{{ site.color.secondary }};
 }
 
+section.pics {
+  color: #fff;
+  background: #{{ site.color.secondary-dark }};
+}
+
+
+
 @media(max-width:767px) {
   section {
       padding: 75px 0;
@@ -482,3 +489,5 @@ footer .footer-below {
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
 }
+
+
